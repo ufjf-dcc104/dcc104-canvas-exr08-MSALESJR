@@ -5,10 +5,18 @@
 # Matricula : 201165251AC
 
 Controle
-PLAYER 1 :
+Controle
+
+PLAYER 1 :  
+   W
+A     D    SPACE
+   S
+
+
+PLAYER 2 :
   ^
   |
-<- ->
+<- ->     ZERO
   |
   v
 ```
